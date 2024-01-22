@@ -2015,12 +2015,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/ivan/proprietary/vendor/etc/mtk_platform_codecs_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mtk_platform_codecs_config.xml \
     vendor/oneplus/ivan/proprietary/vendor/etc/nhw:$(TARGET_COPY_OUT_VENDOR)/etc/nhw \
     vendor/oneplus/ivan/proprietary/vendor/etc/partition_permission.sh:$(TARGET_COPY_OUT_VENDOR)/etc/partition_permission.sh \
-    vendor/oneplus/ivan/proprietary/vendor/etc/permissions/android.hardware.hardware_keystore.km41.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.hardware_keystore.km41.xml \
-    vendor/oneplus/ivan/proprietary/vendor/etc/permissions/com.mediatek.hardware.vow_dsp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/com.mediatek.hardware.vow_dsp.xml \
-    vendor/oneplus/ivan/proprietary/vendor/etc/power_app_cfg.xml:$(TARGET_COPY_OUT_VENDOR)/etc/power_app_cfg.xml \
-    vendor/oneplus/ivan/proprietary/vendor/etc/powercontable.xml:$(TARGET_COPY_OUT_VENDOR)/etc/powercontable.xml \
-    vendor/oneplus/ivan/proprietary/vendor/etc/powerscntbl.xml:$(TARGET_COPY_OUT_VENDOR)/etc/powerscntbl.xml \
-    vendor/oneplus/ivan/proprietary/vendor/etc/seccomp_policy/android.hardware.media.c2@1.2-mediatek-seccomp-policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/android.hardware.media.c2@1.2-mediatek-seccomp-policy \
     vendor/oneplus/ivan/proprietary/vendor/etc/security/cacerts/01419da9.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts/01419da9.0 \
     vendor/oneplus/ivan/proprietary/vendor/etc/security/cacerts/04f60c28.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts/04f60c28.0 \
     vendor/oneplus/ivan/proprietary/vendor/etc/security/cacerts/0d69c7e1.0:$(TARGET_COPY_OUT_VENDOR)/etc/security/cacerts/0d69c7e1.0 \
