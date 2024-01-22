@@ -1,0 +1,22 @@
+[
+    {
+        "project":"21851",
+        "name":"default",
+        "product":"IV2201_IND",
+        "device":"OP555BL1",
+        "model":"IV2201",
+        "first_api_level":"30",
+        "manufacturer": "OnePlus",
+        "brand": "OnePlus",
+        "base_oses": [
+            {
+              "13": "OnePlus/IV2201_IND/OP555BL1:13/TP1A.220905.001/R.e1a4f0-1:user/release-keys"
+            }
+        ],
+        "emer_base_oses": [
+            {
+              "13": "OnePlus/IV2201_IND/OP555BL1:13/TP1A.220905.001/R.e1a4f0-1:user/release-keys"
+            }
+        ]
+    }
+]
