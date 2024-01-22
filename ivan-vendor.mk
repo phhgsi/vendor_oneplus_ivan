@@ -1489,32 +1489,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/ivan/proprietary/odm/lib64/vendor.oplus.hardware.touch@1.0.so:$(TARGET_COPY_OUT_ODM)/lib64/vendor.oplus.hardware.touch@1.0.so \
     vendor/oneplus/ivan/proprietary/odm/lib64/vendor.oplus.hardware.transmessage@1.0.so:$(TARGET_COPY_OUT_ODM)/lib64/vendor.oplus.hardware.transmessage@1.0.so \
     vendor/oneplus/ivan/proprietary/odm/lib64/vendor.oplus.hardware.wifi@1.1.so:$(TARGET_COPY_OUT_ODM)/lib64/vendor.oplus.hardware.wifi@1.1.so \
-    vendor/oneplus/ivan/proprietary/system_ext/etc/nfcee_access.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/nfcee_access.xml \
-    vendor/oneplus/ivan/proprietary/system_ext/lib/android.hardware.radio.config@1.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/android.hardware.radio.config@1.1.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib/android.hardware.radio.config@1.2.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/android.hardware.radio.config@1.2.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib/android.hardware.radio.config@1.3.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/android.hardware.radio.config@1.3.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib/android.hardware.radio@1.5.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/android.hardware.radio@1.5.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib/android.hardware.radio@1.6.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/android.hardware.radio@1.6.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib/vendor.mediatek.hardware.audio@7.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.mediatek.hardware.audio@7.1.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib/vendor.mediatek.hardware.audio@8.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.mediatek.hardware.audio@8.1.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib/vendor.oplus.hardware.biometrics.fingerprintpay@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.oplus.hardware.biometrics.fingerprintpay@1.0.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib/vendor.oplus.hardware.camera.slogan@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.oplus.hardware.camera.slogan@1.0.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib/vendor.oplus.hardware.cameraMDM@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.oplus.hardware.cameraMDM@1.0.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib/vendor.oplus.hardware.displaypanelfeature@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.oplus.hardware.displaypanelfeature@1.0.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib/vendor.pixelworks.hardware.display@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.pixelworks.hardware.display@1.0.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib64/android.hardware.radio.config@1.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/android.hardware.radio.config@1.1.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib64/android.hardware.radio.config@1.2.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/android.hardware.radio.config@1.2.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib64/android.hardware.radio.config@1.3.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/android.hardware.radio.config@1.3.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib64/android.hardware.radio@1.5.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/android.hardware.radio@1.5.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib64/android.hardware.radio@1.6.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/android.hardware.radio@1.6.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib64/vendor.mediatek.hardware.audio@7.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.audio@7.1.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib64/vendor.mediatek.hardware.audio@8.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.audio@8.1.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib64/vendor.oplus.hardware.biometrics.fingerprintpay@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.oplus.hardware.biometrics.fingerprintpay@1.0.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib64/vendor.oplus.hardware.bluetooth_audio_extend@2.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.oplus.hardware.bluetooth_audio_extend@2.1.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib64/vendor.oplus.hardware.camera.slogan@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.oplus.hardware.camera.slogan@1.0.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib64/vendor.oplus.hardware.cameraMDM@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.oplus.hardware.cameraMDM@1.0.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib64/vendor.oplus.hardware.displaypanelfeature@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.oplus.hardware.displaypanelfeature@1.0.so \
-    vendor/oneplus/ivan/proprietary/system_ext/lib64/vendor.pixelworks.hardware.display@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.pixelworks.hardware.display@1.0.so \
     vendor/oneplus/ivan/proprietary/vendor/app/mcRegistry/020f0000000000000000000000000000.drbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/020f0000000000000000000000000000.drbin \
     vendor/oneplus/ivan/proprietary/vendor/app/mcRegistry/020f0000000000000000000000000000.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/020f0000000000000000000000000000.tlbin \
     vendor/oneplus/ivan/proprietary/vendor/app/mcRegistry/05120000000000000000000000000000.drbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/05120000000000000000000000000000.drbin \
