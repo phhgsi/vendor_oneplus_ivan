@@ -3813,41 +3813,4 @@ PRODUCT_PACKAGES += \
     vendor.oplus.hardware.stability.oplus_project-V1.0-java \
     vendor.oplus.hardware.touch-V1.0-java \
     vendor.oplus.hardware.transmessage-V1.0-java \
-    vendor.oplus.hardware.wifi-V1.1-java \
-    android.hardware.health@2.1 \
-    android.hardware.neuralnetworks@1.3-service-mtk-mdla-dsp-gpu \
-    android.hardware.usb@1.2-service-mediatekv2 \
-    android.hardware.wifi.hostapd \
-    android.hardware.wifi.supplicant \
-    android.hardware.wifi@1.0-service \
-    lights-mtk-default \
-    manifest_soter \
-    power-default \
-    vendor.oplus.hardware.wifi.supplicant \
-    manifest_engineer \
-    manifest_nfc_pn557 \
-    manifest_oplusSensor \
-    manifest_oplus_bluetooth_audio_extend \
-    manifest_oplus_cammidasservice \
-    manifest_oplus_charger \
-    manifest_oplus_cryptoeng \
-    manifest_oplus_displaypanelfeature \
-    manifest_oplus_engcamera \
-    manifest_oplus_face \
-    manifest_oplus_felica \
-    manifest_oplus_fingerprint \
-    manifest_oplus_gameopt \
-    manifest_oplus_ifaa \
-    manifest_oplus_midas \
-    manifest_oplus_misc \
-    manifest_oplus_mtkmodemaci \
-    manifest_oplus_nfc \
-    manifest_oplus_performance \
-    manifest_oplus_rpmh-V20 \
-    manifest_oplus_stability_project \
-    manifest_oplus_touch \
-    oplus_wifi_service_device \
-    ormsHalService-default \
-    vendor.oplus.hardware.hdcp@1.1-service \
-    vendor.oplus.hardware.olc@2.0-service \
-    vibrator-mtk-default
+    vendor.oplus.hardware.wifi-V1.1-java 
