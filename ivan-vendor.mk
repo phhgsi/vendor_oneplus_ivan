@@ -3795,9 +3795,7 @@ PRODUCT_PACKAGES += \
     NetworkStackResOverlay \
     TetheringResOverlay \
     GpuGameDriver.mt6877 \
-    vendor.oplus.hardware.biometrics.fingerprintpay-V1.0-java \
     vendor.oplus.hardware.appradio-V1.0-java \
-    vendor.oplus.hardware.biometrics.fingerprintpay-V1.0-java \
     vendor.oplus.hardware.charger-V1.0-java \
     vendor.oplus.hardware.cryptoeng-V1.0-java \
     vendor.oplus.hardware.engineer-V1.0-java \
@@ -3823,8 +3821,6 @@ PRODUCT_PACKAGES += \
     android.hardware.wifi.supplicant \
     android.hardware.wifi@1.0-service \
     lights-mtk-default \
-    manifest_android.hardware.drm@1.4-service.clearkey \
-    manifest_android.hardware.drm@1.4-service.widevine \
     manifest_soter \
     power-default \
     vendor.oplus.hardware.wifi.supplicant \
