@@ -2391,7 +2391,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/ivan/proprietary/vendor/lib/AVCSecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib/AVCSecureVdecCA.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/HEVCSecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib/HEVCSecureVdecCA.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/VP9SecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib/VP9SecureVdecCA.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.frameworks.sensorservice@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.frameworks.sensorservice@1.0.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.audio.common-util.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.common-util.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.audio.common@5.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.common@5.0.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.audio.common@6.0-util.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.common@6.0-util.so \
