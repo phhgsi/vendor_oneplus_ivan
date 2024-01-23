@@ -2391,13 +2391,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/ivan/proprietary/vendor/lib/AVCSecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib/AVCSecureVdecCA.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/HEVCSecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib/HEVCSecureVdecCA.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/VP9SecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib/VP9SecureVdecCA.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.audio.effect@6.0-util.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.effect@6.0-util.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.audio.effect@6.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.effect@6.0.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.audio.effect@7.0-util.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.effect@7.0-util.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.audio.effect@7.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.effect@7.0.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.audio@6.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio@6.0.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.audio@7.0-util.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio@7.0-util.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.audio@7.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio@7.0.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.bluetooth.audio@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.bluetooth.audio@2.0.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.bluetooth.audio@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.bluetooth.audio@2.1.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.bluetooth@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.bluetooth@1.0.so \
