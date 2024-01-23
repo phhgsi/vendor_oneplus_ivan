@@ -2391,11 +2391,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/ivan/proprietary/vendor/lib/AVCSecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib/AVCSecureVdecCA.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/HEVCSecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib/HEVCSecureVdecCA.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/VP9SecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib/VP9SecureVdecCA.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.frameworks.cameraservice.device@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.frameworks.cameraservice.device@2.0.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.frameworks.cameraservice.device@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.frameworks.cameraservice.device@2.1.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.frameworks.cameraservice.service@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.frameworks.cameraservice.service@2.0.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.frameworks.cameraservice.service@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.frameworks.cameraservice.service@2.1.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.frameworks.cameraservice.service@2.2.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.frameworks.cameraservice.service@2.2.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.frameworks.sensorservice@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.frameworks.sensorservice@1.0.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.audio.common-util.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.common-util.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.audio.common@5.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.common@5.0.so \
@@ -2421,12 +2416,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.cas@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.cas@1.0.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.cas@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.cas@1.1.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.cas@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.cas@1.2.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.drm@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.drm@1.0.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.drm@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.drm@1.1.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.drm@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.drm@1.2.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.drm@1.3.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.drm@1.3.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.drm@1.4.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.drm@1.4.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.gatekeeper@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.gatekeeper@1.0.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.media.c2@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.media.c2@1.0.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.media.c2@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.media.c2@1.1.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.media.c2@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.media.c2@1.2.so \
@@ -2436,8 +2425,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.radio@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.radio@1.0.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.radio@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.radio@1.1.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.sensors@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.sensors@1.0.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.thermal@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.thermal@1.0.so \
-    vendor/oneplus/ivan/proprietary/vendor/lib/android.hardware.thermal@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.thermal@2.0.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.hidl.allocator@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hidl.allocator@1.0.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/android.system.wifi.keystore@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.system.wifi.keystore@1.0.so \
     vendor/oneplus/ivan/proprietary/vendor/lib/arm.graphics-V1-ndk_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib/arm.graphics-V1-ndk_platform.so \
