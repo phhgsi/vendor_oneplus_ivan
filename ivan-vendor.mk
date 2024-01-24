@@ -592,7 +592,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/ivan/proprietary/odm/etc/nfc/st21nfc_fw7.bin_st21h:$(TARGET_COPY_OUT_ODM)/etc/nfc/st21nfc_fw7.bin_st21h \
     vendor/oneplus/ivan/proprietary/odm/etc/nfc/st21nfc_fw7.bin_st21h_fw_01_20:$(TARGET_COPY_OUT_ODM)/etc/nfc/st21nfc_fw7.bin_st21h_fw_01_20 \
     vendor/oneplus/ivan/proprietary/odm/etc/oplus.fstab:$(TARGET_COPY_OUT_ODM)/etc/oplus.fstab \
-    vendor/oneplus/ivan/proprietary/odm/etc/orms/orms_core_config.xml:$(TARGET_COPY_OUT_ODM)/etc/orms/orms_core_config.xml \
     vendor/oneplus/ivan/proprietary/odm/etc/orms/orms_permission_config.xml:$(TARGET_COPY_OUT_ODM)/etc/orms/orms_permission_config.xml \
     vendor/oneplus/ivan/proprietary/odm/etc/permissions/com.oplus.nfc_feature.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/com.oplus.nfc_feature.xml \
     vendor/oneplus/ivan/proprietary/odm/etc/permissions/vendor-oplus-hardware-biometrics-fingerprintpay.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/vendor-oplus-hardware-biometrics-fingerprintpay.xml \
